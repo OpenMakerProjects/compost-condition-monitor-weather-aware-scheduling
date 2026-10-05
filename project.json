@@ -1,0 +1,20 @@
+{
+  "id": 189,
+  "title": "Compost Condition Monitor Weather-Aware Scheduling",
+  "repository_slug": "compost-condition-monitor-weather-aware-scheduling",
+  "category": "Smart Agriculture",
+  "platform": "LoRa + Arduino",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 20,
+  "connectivity": "Local only",
+  "components": [
+    "load cell",
+    "water pump"
+  ],
+  "scope": "Build a smart agriculture prototype that uses load cell, water pump to adapt actions using local weather readings. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Weather-Aware Scheduling demonstration with repeatable test steps",
+  "mode": "closed_loop_control",
+  "entrypoint": "firmware/compost-condition-monitor-weather-aware-scheduling/compost-condition-monitor-weather-aware-scheduling.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
